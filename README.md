@@ -1,5 +1,6 @@
 
-### Issues can be tracked at https://github.com/Bot-Commander-Services/Language-Service/projects/1
+### Issues can be tracked at [this page](https://github.com/Bot-Commander-Services/Language-Service/projects/1)
+
 ### Stolen from [ayayaQ](https://github.com/ayayaQ/BotCommander_Languages)
 
 Don't translate the name of the string / string array, only translate the content inside of the tags <></>
